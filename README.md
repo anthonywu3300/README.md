@@ -24,12 +24,6 @@ Feel free to reach out to me for opportunities and interests!
 
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anthonywu3300&layout=compact&show_icons=true&theme=nightowl" />
-
-<br />
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=anthonwu3300&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" />
 </a>
-
 
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=anthonywu3300&count_private=true&include_all_commits=true&show_icons=true&hide=stars,contribs&token=SECRET_TOKEN)   -->
