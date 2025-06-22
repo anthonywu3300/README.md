@@ -23,7 +23,7 @@ Feel free to reach out to me for opportunities and interests!
 
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=achinth-b&layout=compact&show_icons=true&theme=nightowl" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anthonywu3300&layout=compact&show_icons=true&theme=nightowl" />
 
 <br />
 
